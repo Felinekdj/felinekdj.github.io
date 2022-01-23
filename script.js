@@ -22,7 +22,7 @@ for (i = 0; i < acc.length; i++) {
     } else {
       panel.style.maxHeight = panel.scrollHeight + "px";
     } 
-  });let myName = "𝔉𝔢𝔩𝔦𝔫𝔢𝔰 𝔏𝔬𝔤𝔟𝔬𝔤";
+  });let myName = "𝔉𝔢𝔩𝔦𝔫𝔢𝔰 ";
   let firstlink = document
   .getElementsByTagName("a")[0];
   firstlink.innerHTML = myName;
