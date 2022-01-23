@@ -1,4 +1,4 @@
- body {
+  body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
   }
@@ -94,19 +94,19 @@
   }
 
   #engelsk {
-    background-image:  url('images/engelsk.jpg');
+    background-image:  url('images/Flower');
   }
 
   #so {
-    background-image:  url('images/so.jpg');
+    background-image:  url('images/Heesung.jpg');
   }
 
   #dotdotdot {
-    background-image:  url('images/dotdotdot.jpg');
+    background-image:  url('images/træ.jpg');
   }
 
   #dansk {
-    background-image:  url('images/dansk.jpg');
+    background-image:  url('images/kiki.jpg');
   }
 
   .content .element {
